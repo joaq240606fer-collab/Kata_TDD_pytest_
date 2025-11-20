@@ -14,7 +14,7 @@ Requisitos
 La función debe manejar los siguientes casos especiales:
 
 * Coeficiente lineal (b) es nulo
-* Termino independiente (c) es nuelo
+* Termino independiente (c) es nulo
 * Coeficiente lineal (b) y Termino independiente (c) son nulos 
 * Coeficiente cuadratico (a) es cero
 * La raiz es imaginaria
