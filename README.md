@@ -1,6 +1,6 @@
 # Solución a Ecuaciones de Segundo Grado (CodeWars Kata) #
 
-El Problema
+## El Problema ##
 
 Este repositorio contiene la solución al Kata de CodeWars:
 
@@ -9,7 +9,7 @@ Este repositorio contiene la solución al Kata de CodeWars:
 
 El objetivo de este Kata era implementar una función que, dados los tres coeficientes de una ecuación de segundo grado ax2+bx+c=0, determinara y devolviera sus raíces (soluciones).
 
-Requisitos
+## Requisitos de funcionamiento ##
 
 La función debe manejar los siguientes casos especiales:
 
@@ -24,3 +24,10 @@ Ejecutar la Solución
 La lógica principal se encuentra en 
 
 [https://github.com/joaq240606fer-collab/Kata_TDD_pytest_/blob/b442d92f1e9204c9fe0efae2a7e70b7eb4b6241e/src/raizEcuacionSegundoGrado.py]
+
+
+## Requerimientos de Pyhton ##
+
+Todos los requerimientos para que el programa funcione se encuentra en requirements.txt 
+
+[https://github.com/joaq240606fer-collab/Kata_TDD_pytest_/blob/ffd95cc9480eddb0272865b5105187e81da17868/requirements.txt]
